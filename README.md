@@ -56,9 +56,11 @@ This project is a task management API built using the MERN tech stack (MongoDB, 
 
 ### API Endpoints
 
-### I published the api documentation via postman so you can use below url for more details.
+### API Documentation URL
 https://documenter.getpostman.com/view/28291997/2sA3kYgz6j
 
+### Database Schema Documentation URL
+https://dbdiagram.io/d/TaskManagerApi-aman-malviya-66a244838b4bb5230e567a18
 
 ## Contributing
 
