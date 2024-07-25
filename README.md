@@ -29,7 +29,7 @@ This project is a task management API built using the MERN tech stack (MongoDB, 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/task-management-api.git
+    git clone https://github.com/AmanMalviya22/task-manager-api.git
     cd task-management-api
     ```
 
@@ -56,28 +56,9 @@ This project is a task management API built using the MERN tech stack (MongoDB, 
 
 ### API Endpoints
 
-#### Users
+### I published the api documentation via postman so you can use below url for more details.
+https://documenter.getpostman.com/view/28291997/2sA3kYgz6j
 
-- **POST /api/users**: Create a new user
-- **GET /api/users**: Get all users
-- **GET /api/users/:id**: Get a user by ID
-- **PUT /api/users/:id**: Update a user by ID
-- **DELETE /api/users/:id**: Delete a user by ID
-
-#### Tasks
-
-- **POST /api/tasks**: Create a new task
-- **GET /api/tasks**: Get all tasks
-- **GET /api/tasks/:id**: Get a task by ID
-- **PUT /api/tasks/:id**: Update a task by ID
-- **DELETE /api/tasks/:id**: Delete a task by ID
-
-#### Subtasks
-
-- **POST /api/tasks/:taskId/subtasks**: Add a new subtask to a task
-- **GET /api/tasks/:taskId/subtasks**: Get all subtasks for a task
-- **PUT /api/subtasks/:id**: Update a subtask by ID
-- **DELETE /api/subtasks/:id**: Delete a subtask by ID
 
 ## Contributing
 
@@ -105,7 +86,7 @@ This project is a task management API built using the MERN tech stack (MongoDB, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT Licens
 
 ## Acknowledgments
 
@@ -113,4 +94,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to adjust this template to fit your specific project needs!
+
